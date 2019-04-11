@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>Bienvenídos a mi blog</title>
+	<link>file:///C:/Users/fonsr/OneDrive/Escritorio/web_pac_desarrollo.html</link>
+	<description>Página de divulgación de noticias</description>
+	<item>
+		<title>El Betis se proclama campeón de LaLiga</title>
+		<link>file:///C:/Users/fonsr/OneDrive/Escritorio/web_pac_desarrollo.html</link>
+		<description>Visita la WebInfo para ver el hilo de la noticia</description>	
+		<comments>comentarios</comments>			
+	</item>
+	<item>
+		<title>Primera foto a un agujero negro</title>
+		<link>file:///C:/Users/fonsr/OneDrive/Escritorio/web_pac_desarrollo.html</link>
+		<description>Visita la WebInfo para ver el hilo de la noticia</description>	
+		<comments>comentarios</comments>			
+	</item>
+	<item>
+		<title>Triatlón de Sevilla</title>
+		<link>file:///C:/Users/fonsr/OneDrive/Escritorio/web_pac_desarrollo.html</link>
+		<description>Visita la WebInfo para ver el hilo de la noticia</description>	
+		<comments>comentarios</comments>			
+	</item>
+	<item>
+		<title>No te quedes en casa y VOTA</title>
+		<link>file:///C:/Users/fonsr/OneDrive/Escritorio/web_pac_desarrollo.html</link>
+		<description>Visita la WebInfo para ver el hilo de la noticia</description>	
+		<comments>comentarios</comments>			
+	</item>
+	<item>
+		<title>La informática, una salida para el futuro</title>
+		<link>file:///C:/Users/fonsr/OneDrive/Escritorio/web_pac_desarrollo.html</link>
+		<description>Visita la WebInfo para ver el hilo de la noticia</description>	
+		<comments>comentarios</comments>			
+	</item>
+	<category>Divulgación/Fútbol/Deportes</category>
+	<copyright>Alfonso Hidalgo Ortiz</copyright>
+
+</channel>
+</rss>
